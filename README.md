@@ -35,6 +35,24 @@ This application is a versatile tool designed to help users with mathematical pr
 - MathGPT API
 - Python for application development
 
-## Project Screenshots
+## Project Screenshots 
+
+![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/img-1.png)
+
+![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/img-2.png)
+
+![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/simple-ai.png)
+
+
+### Project Demo Videos
+-Demo 1
+
+[![Watch the video](https://imgs.search.brave.com/p-UJhw69CLj3J67Oi0lC8GmsF9CynaAxVRmBAFxRRjo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/dXNlYXN0MS5rYXB3/aW5nLmNvbS9zdGF0/aWMveXQtZm9vdGVy/LWxpZ2h0LndlYnA)](https://www.youtube.com/watch?v=ZpN92s1PzWE)
+
+-Demo 2
+
+[![Watch the video](https://imgs.search.brave.com/p-UJhw69CLj3J67Oi0lC8GmsF9CynaAxVRmBAFxRRjo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/dXNlYXN0MS5rYXB3/aW5nLmNvbS9zdGF0/aWMveXQtZm9vdGVy/LWxpZ2h0LndlYnA)](https://www.youtube.com/watch?v=ZpN92s1PzWE)
+
+
 
 
