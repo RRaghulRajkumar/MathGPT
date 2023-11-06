@@ -1,0 +1,6 @@
+openai
+python-decouple
+latex2sympy
+SpeechRecognition
+pyaudio
+streamlit
