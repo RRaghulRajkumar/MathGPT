@@ -43,7 +43,7 @@ This application is a versatile tool designed to help users with mathematical pr
 
 ![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/simple-ai.png)
 
-![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/ai-img.png)
+![alt text](https://github.com/RRaghulRajkumar/MathGPT/blob/main/demo/ai-img.jpg)
 
 
 ### Project Demo Videos
